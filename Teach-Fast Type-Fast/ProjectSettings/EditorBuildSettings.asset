@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Selection Screen.unity
     guid: c9b8b2126db42a14e9300c949bac20d8
+  - enabled: 1
+    path: Assets/Scenes/Keboard Test.unity
+    guid: b8307b19d60d5fa49843630fa7c63ac0
   m_configObjects: {}

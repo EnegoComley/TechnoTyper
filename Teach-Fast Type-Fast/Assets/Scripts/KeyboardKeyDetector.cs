@@ -12,6 +12,8 @@ public class KeyboardKeyDetector : MonoBehaviour
     Text text;
     Transform imageTransform;
     Transform textTransform;
+    
+
     // Start is called before the first frame update
     void Start()
     {
@@ -33,7 +35,6 @@ public class KeyboardKeyDetector : MonoBehaviour
         if (Input.GetKey(keyName))
         {
             text.color = Color.red;
-            Debug.Log(text.text);
             imageTransform.localScale = new Vector3(scaleDownButton, scaleDownButton);
             textTransform.localScale = new Vector3(2.5f, 2.5f);
             
