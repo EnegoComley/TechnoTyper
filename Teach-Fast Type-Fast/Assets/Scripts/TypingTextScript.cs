@@ -96,7 +96,7 @@ public class TypingTextScript : MonoBehaviour
     {
         acuracy = 100*((theActualTextLength - numberOfMistakes) / theActualTextLength);
         Debug.Log(acuracy + "%");
-        wPM = ((theActualTextLength/5)/(Time.time/ 60000));
+        wPM = ((theActualTextLength/5)/(Time.time/ 60));
         Debug.Log(wPM + " Words per Minute");
     }
 }
