@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fdbe026875af46d468ef15950cd4e551
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Liberator
+  fontNames:
+  - Liberator
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1827624f4f50a1d4a92d5a64ca96c712, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
